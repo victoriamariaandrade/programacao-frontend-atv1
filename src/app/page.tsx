@@ -7,7 +7,7 @@ export default function Home() {
         <div className={styles.intro}>
           <h1>Mensagem especial de Carnaval</h1>
           <p>
-            "Família, aproveitem bem o carnaval, com muita paz e diversão."
+            "Olá Família, aproveitem bem o carnaval, com muita paz e diversão."
           </p>
         </div>
       </main>
